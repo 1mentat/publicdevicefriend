@@ -1,0 +1,4 @@
+distribute==0.6.28
+dnspython==1.10.0
+wsgiref==0.1.2
+xgoogle==1.3
